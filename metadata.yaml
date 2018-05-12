@@ -1,0 +1,32 @@
+_repo: Fifty-two-Stories-of-the-British-Navy-from-Damme-to-Trafalgar._40871
+_version: 0.1.0
+alternative_title: 52 Stories of the British Navy, from Damme to Trafalgar.
+covers:
+- cover_type: archival
+  image_path: 40871-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miles, Alfred H. (Alfred Henry)
+    aliases:
+    - Miles, A. H. (Alfred Henry)
+    - Miles, Alfred Henry
+    birthdate: 1848
+    deathdate: 1929
+    gutenberg_agent_id: '7333'
+    url: http://www.gutenberg.org/2009/agents/7333
+description: ''
+gutenberg_issued: '2012-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'DA'
+- !lcc 'VA'
+- !lcsh 'Great Britain -- History, Naval -- Juvenile literature'
+title: Fifty-two Stories of the British Navy, from Damme to Trafalgar.
+url: http://www.gutenberg.org/ebooks/40871
